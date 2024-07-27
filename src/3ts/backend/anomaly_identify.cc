@@ -16,7 +16,7 @@ int main() {
   printer.PrintStartInfo();
 
   while (true) {
-    std::cout << "Please type a history for anomaly identification." << std::endl;
+    std::cout << "This is a demo.try try2222222" << std::endl;
     std::cout << "3ts> ";
     std::string text = "";
     std::getline(std::cin, text);
